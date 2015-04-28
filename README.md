@@ -1,0 +1,1 @@
+Bases de datos de ejemplo para MySQL, Oracle y SQLite.

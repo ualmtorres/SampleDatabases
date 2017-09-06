@@ -1,3 +1,4 @@
+dateId	productId	storeId	costAmount	salesQuantity	salesAmount	salesPrice	numberOfCustomers
 1	1	15	32.48	58	33.66	38
 1	2	10	208.25	85	210.04	48
 1	3	7	365.2	83	402.78	77

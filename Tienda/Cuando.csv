@@ -1,4 +1,4 @@
-id	date	day dayOfYear	weekday	dayNumber	month	monthNumber	year
+id	date	day	dayOfYear	weekday	dayNumber	month	monthNumber	year
 1	2007-08-16	16	228	Viernes	5	Agosto	8	2007
 2	2007-08-17	17	229	Sábado	6	Agosto	8	2007
 3	2007-08-18	18	230	Domingo	7	Agosto	8	2007

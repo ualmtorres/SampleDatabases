@@ -26,9 +26,9 @@ DROP TABLE IF EXISTS `Clientes`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `Clientes` (
-  `nombreCli` varchar(8) DEFAULT NULL,
-  `dniCli` tinyint(4) DEFAULT NULL,
-  `domicilio` varchar(23) DEFAULT NULL,
+  `nombreCli` varchar(8),
+  `dniCli` tinyint(4),
+  `domicilio` varchar(23),
   PRIMARY KEY (dniCli)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 /*!40101 SET character_set_client = @saved_cs_client */;
@@ -51,8 +51,8 @@ DROP TABLE IF EXISTS `CtaCli`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `CtaCli` (
-  `dniCli` tinyint(4) DEFAULT NULL,
-  `numeroCta` tinyint(4) DEFAULT NULL,
+  `dniCli` tinyint(4),
+  `numeroCta` tinyint(4),
   PRIMARY KEY(dniCli, numeroCta)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 /*!40101 SET character_set_client = @saved_cs_client */;
@@ -75,9 +75,9 @@ DROP TABLE IF EXISTS `Cuentas`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `Cuentas` (
-  `numeroCta` tinyint(4) DEFAULT NULL,
-  `saldo` decimal(6,1) DEFAULT NULL,
-  `nombreSuc` varchar(8) DEFAULT NULL,
+  `numeroCta` tinyint(4) ,
+  `saldo` decimal(6,1) ,
+  `nombreSuc` varchar(8) ,
   PRIMARY KEY(numeroCta)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 /*!40101 SET character_set_client = @saved_cs_client */;
@@ -100,10 +100,10 @@ DROP TABLE IF EXISTS `Empleados`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `Empleados` (
-  `nombreEmp` varchar(8) DEFAULT NULL,
-  `dniEmp` tinyint(4) DEFAULT NULL,
-  `telefono` mediumint(9) DEFAULT NULL,
-  `nombreSuc` varchar(8) DEFAULT NULL,
+  `nombreEmp` varchar(8) ,
+  `dniEmp` tinyint(4) ,
+  `telefono` mediumint(9) ,
+  `nombreSuc` varchar(8) ,
   PRIMARY KEY (dniEmp)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 /*!40101 SET character_set_client = @saved_cs_client */;
@@ -126,9 +126,9 @@ DROP TABLE IF EXISTS `Sucursales`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `Sucursales` (
-  `nombreSuc` varchar(10) DEFAULT NULL,
-  `ciudadSuc` varchar(10) DEFAULT NULL,
-  `activo` decimal(8,1) DEFAULT NULL,
+  `nombreSuc` varchar(10) ,
+  `ciudadSuc` varchar(10) ,
+  `activo` decimal(8,1) ,
   PRIMARY KEY(nombreSuc)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 /*!40101 SET character_set_client = @saved_cs_client */;
@@ -151,10 +151,10 @@ DROP TABLE IF EXISTS `Transacciones`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `Transacciones` (
-  `numeroCta` tinyint(4) DEFAULT NULL,
-  `numeroTrans` tinyint(4) DEFAULT NULL,
-  `fecha` varchar(0) DEFAULT NULL,
-  `importe` decimal(6,1) DEFAULT NULL,
+  `numeroCta` tinyint(4) ,
+  `numeroTrans` tinyint(4) ,
+  `fecha` varchar(0) ,
+  `importe` decimal(6,1) ,
   PRIMARY KEY(numeroCta, numeroTrans)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 /*!40101 SET character_set_client = @saved_cs_client */;

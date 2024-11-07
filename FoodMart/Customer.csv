@@ -122,7 +122,7 @@ customer_id,customer_acct_num,first_name,last_name,customer_address,customer_cit
 121,88683427572,Anna,Hill,7883 Mitchell Canyon Court,Santa Monica,CA,55288,USA,2/17/1912,S,$30K - $50K,F,5,0,High School Degree,7/27/1994,Silver,Manual,Y
 122,88690803647,Ramon,Williams,3997 Via De Luna,Walla Walla,WA,70289,USA,9/22/1920,M,$30K - $50K,F,4,1,High School Degree,5/19/1992,Bronze,Skilled Manual,N
 123,88708876371,Scott,Masters,5747 Shirley Drive,Richmond,CA,24162,USA,7/8/1964,M,$30K - $50K,F,2,0,High School Degree,8/15/1993,Bronze,Manual,Y
-124,88719449639,Joseph,"Brady, Jr.",2115 Pasado,Oakland,CA,55084,USA,9/7/1930,S,$70K - $90K,F,5,0,Bachelors Degree,3/27/1991,Bronze,Professional,N
+124,88719449639,Joseph,Brady Jr.,2115 Pasado,Oakland,CA,55084,USA,9/7/1930,S,$70K - $90K,F,5,0,Bachelors Degree,3/27/1991,Bronze,Professional,N
 125,88734051585,Ellen,Gray,6774 Bonanza,Bellflower,CA,20209,USA,12/4/1972,M,$70K - $90K,M,2,2,Bachelors Degree,6/22/1991,Bronze,Professional,Y
 126,88735752105,Henry,Fielder,3397 Rancho View Drive,Ballard,WA,90000,USA,2/3/1947,S,$110K - $130K,F,2,0,Partial College,7/24/1990,Normal,Professional,Y
 127,88744179606,Jeanine,Finnell,8310 Ridge Circle,Everett,WA,75196,USA,6/18/1932,S,$10K - $30K,M,1,0,Partial High School,11/27/1992,Normal,Skilled Manual,Y
@@ -1566,7 +1566,7 @@ customer_id,customer_acct_num,first_name,last_name,customer_address,customer_cit
 1565,13914104700,Hilda,Visendi,9343 Ironwood Way,La Jolla,CA,55666,USA,10/9/1914,M,$50K - $70K,M,5,0,High School Degree,4/17/1990,Bronze,Manual,N
 1566,13915016651,Carl Bryant,Brown,331 Camino Verde,San Andres,DF,36732,Mexico,10/18/1922,M,$30K - $50K,M,2,1,High School Degree,12/24/1994,Bronze,Skilled Manual,Y
 1567,13925445079,Greg,Morgan,3281 Ana Mile,Spokane,WA,70170,USA,10/2/1963,M,$50K - $70K,M,2,1,Bachelors Degree,9/22/1991,Bronze,Professional,Y
-1568,13928744200,Joseph,"Diehl, Jr.",1867 Sahara Drive,Newton,BC,91719,Canada,3/14/1926,M,$70K - $90K,M,0,0,Bachelors Degree,2/12/1992,Bronze,Professional,N
+1568,13928744200,Joseph,Diehl Jr.,1867 Sahara Drive,Newton,BC,91719,Canada,3/14/1926,M,$70K - $90K,M,0,0,Bachelors Degree,2/12/1992,Bronze,Professional,N
 1569,13940245500,Stephen,Steeves,5071 Paraiso Ct.,San Jose,CA,91319,USA,9/15/1925,S,$50K - $70K,M,5,0,Bachelors Degree,4/3/1992,Normal,Professional,N
 1570,13943533900,Christine,Lowe,6566 Jamie Way,Lincoln Acres,CA,79030,USA,10/4/1950,M,$10K - $30K,M,1,0,Partial High School,9/16/1991,Normal,Skilled Manual,N
 1571,13944215178,Michael,Todd,2681 Woodside Way,Hidalgo,Zacatecas,44791,Mexico,5/10/1958,S,$90K - $110K,F,0,0,Partial High School,10/7/1993,Bronze,Management,Y
@@ -1937,7 +1937,7 @@ customer_id,customer_acct_num,first_name,last_name,customer_address,customer_cit
 1936,16441469800,Mike,Melillo,3244 E Eagle Peak Rd.,Port Hammond,BC,64204,Canada,4/9/1923,S,$10K - $30K,M,4,0,Partial High School,6/26/1991,Normal,Manual,Y
 1937,16459553241,Mary,Bruzzone,6448 Castle Court,Chula Vista,CA,63803,USA,2/13/1961,M,$10K - $30K,F,4,2,Partial High School,1/21/1994,Normal,Manual,Y
 1938,16460143300,Consuelo,Benson,7943 Walnut Ave,Chula Vista,CA,43730,USA,4/21/1942,S,$70K - $90K,M,3,0,Bachelors Degree,10/9/1990,Bronze,Professional,N
-1939,16463184952,Jose,"Carbajel, Jr.",1402 Leonard Ct.,Tixapan,DF,82198,Mexico,3/2/1918,M,$10K - $30K,F,5,5,High School Degree,9/9/1993,Normal,Skilled Manual,N
+1939,16463184952,Jose,Carbajel Jr.,1402 Leonard Ct.,Tixapan,DF,82198,Mexico,3/2/1918,M,$10K - $30K,F,5,5,High School Degree,9/9/1993,Normal,Skilled Manual,N
 1940,16465223400,Vicki,Lyons,5807 Churchill Dr.,Corvallis,OR,62364,USA,5/18/1929,M,$90K - $110K,F,1,1,Bachelors Degree,4/16/1993,Bronze,Professional,Y
 1941,16481681466,Martha,Kinney,2176 Brown Street,Ballard,WA,66994,USA,5/22/1940,S,$130K - $150K,F,5,0,High School Degree,4/13/1993,Bronze,Professional,Y
 1942,16484347600,Yolanda,Pannell,6834 Violetta,Hidalgo,Zacatecas,86028,Mexico,8/11/1938,S,$90K - $110K,F,2,0,High School Degree,7/22/1991,Silver,Professional,Y
@@ -2650,7 +2650,7 @@ customer_id,customer_acct_num,first_name,last_name,customer_address,customer_cit
 2649,21562981600,Thomas,Belli,9111 Rose Ann Ave,Santa Anita,DF,64184,Mexico,4/11/1946,M,$10K - $30K,F,3,0,Partial High School,1/9/1990,Normal,Skilled Manual,N
 2650,21563432200,Gail,Wojik,6935 Candellero Dr,San Jose,CA,15541,USA,5/24/1949,M,$30K - $50K,F,1,1,High School Degree,11/12/1991,Golden,Skilled Manual,N
 2651,21572530269,Richard,Kraft,6721 Baldwin Dr,Langley,BC,17656,Canada,11/17/1923,M,$130K - $150K,F,5,5,High School Degree,9/13/1992,Golden,Management,Y
-2652,21578667200,Ronald,"Hewton, Sr.",4799 Buena Vista,Ladner,BC,78834,Canada,2/10/1957,S,$30K - $50K,F,1,0,High School Degree,8/19/1994,Normal,Manual,Y
+2652,21578667200,Ronald,Hewton Sr.,4799 Buena Vista,Ladner,BC,78834,Canada,2/10/1957,S,$30K - $50K,F,1,0,High School Degree,8/19/1994,Normal,Manual,Y
 2653,21581960916,Connie,Sweet,4839 Ramsey Circle,Victoria,BC,75159,Canada,5/12/1913,S,$50K - $70K,F,1,0,Bachelors Degree,8/20/1990,Bronze,Professional,N
 2654,21585115194,Cynthia,Claypool,3171 Jeanne Circle,Arcadia,CA,57839,USA,8/5/1933,M,$130K - $150K,F,3,2,High School Degree,4/28/1994,Bronze,Management,Y
 2655,21595699200,Julia,Vasilauskas,6121 Pebble Glen Drive,Colma,CA,91277,USA,5/5/1962,M,$110K - $130K,M,4,3,Partial High School,2/25/1992,Golden,Professional,N
@@ -2994,7 +2994,7 @@ customer_id,customer_acct_num,first_name,last_name,customer_address,customer_cit
 2993,24109615683,Bonnie,Szynskie,9105 Jacobsen Street,Imperial Beach,CA,39316,USA,6/22/1977,S,$70K - $90K,M,1,0,Partial High School,10/21/1994,Bronze,Professional,N
 2994,24113955500,Elizabeth,Cartan,602 Columbia River Ct,Imperial Beach,CA,77996,USA,4/9/1964,M,$30K - $50K,M,1,1,Partial College,11/4/1990,Bronze,Skilled Manual,Y
 2995,24119480800,Frances,Bennett,4060 Roundtree Court,Santa Anita,DF,43758,Mexico,9/22/1946,M,$130K - $150K,M,2,0,Partial College,3/22/1994,Golden,Professional,Y
-2996,24131733200,Emmett,"Taylor, Jr.",8465 Kim Court,Albany,OR,96630,USA,5/6/1952,M,$10K - $30K,F,4,1,Partial High School,5/9/1991,Normal,Skilled Manual,Y
+2996,24131733200,Emmett,Taylor Jr.,8465 Kim Court,Albany,OR,96630,USA,5/6/1952,M,$10K - $30K,F,4,1,Partial High School,5/9/1991,Normal,Skilled Manual,Y
 2997,24133911132,Melphia,Borges,4833 Heather Pl,Issaquah,WA,22612,USA,2/11/1972,M,$10K - $30K,M,4,4,Partial High School,7/19/1991,Normal,Skilled Manual,N
 2998,24143014550,Phyllis,Gonzales,6837 Rosemarie Place,Merida,Yucatan,21295,Mexico,10/21/1964,M,$130K - $150K,M,4,3,Partial High School,3/22/1994,Bronze,Professional,Y
 2999,24150701800,Judith,Nopier,6115 Glenside Court,Concord,CA,91086,USA,10/2/1913,S,$50K - $70K,F,5,0,Bachelors Degree,8/21/1990,Bronze,Management,N
@@ -3834,7 +3834,7 @@ customer_id,customer_acct_num,first_name,last_name,customer_address,customer_cit
 3833,30530223300,Eleanor,Borden,7378 Fairfield Avenue,Victoria,BC,49425,Canada,7/13/1963,S,$30K - $50K,F,0,0,High School Degree,12/12/1994,Bronze,Manual,N
 3834,30559502200,Mary,Topel,2546 Woodchuck Pl,Redwood City,CA,99781,USA,4/4/1972,M,$150K +,M,1,1,High School Degree,6/21/1991,Golden,Professional,Y
 3835,30561594400,Thaddaeus,Austin,2332 Treat Blvd,Royal Oak,BC,28976,Canada,11/5/1958,M,$50K - $70K,F,3,1,Bachelors Degree,9/16/1992,Bronze,Management,Y
-3836,30562490200,Dermont,"Stueber, Jr.",410 Whyte Park Ave,Langford,BC,19416,Canada,6/19/1916,M,$70K - $90K,M,0,0,Bachelors Degree,4/1/1993,Bronze,Professional,Y
+3836,30562490200,Dermont,Stueber Jr.,410 Whyte Park Ave,Langford,BC,19416,Canada,6/19/1916,M,$70K - $90K,M,0,0,Bachelors Degree,4/1/1993,Bronze,Professional,Y
 3837,30564582300,Henri,Pickett,3106 Maywood Ln,Lemon Grove,CA,60400,USA,5/27/1949,S,$70K - $90K,F,4,0,High School Degree,9/23/1992,Bronze,Professional,Y
 3838,30572199800,Diana,Axtell,1437 Donaleen Cr,Puyallup,WA,43080,USA,1/14/1963,M,$10K - $30K,M,5,2,Partial High School,2/9/1992,Normal,Manual,Y
 3839,30573396100,Ellen,Brown,4387 Linden Land,Mill Valley,CA,76518,USA,9/4/1955,S,$70K - $90K,F,2,0,Bachelors Degree,9/25/1993,Bronze,Professional,N
@@ -4381,7 +4381,7 @@ customer_id,customer_acct_num,first_name,last_name,customer_address,customer_cit
 4380,34528029000,Baha,Kretz,8320 Rotherham Dr,Ladner,BC,24435,Canada,2/9/1948,S,$110K - $130K,F,2,0,Partial College,11/17/1992,Bronze,Professional,Y
 4381,34531462192,Clinton,Primavera,8360 Frisbie Court,Victoria,BC,91711,Canada,6/11/1975,S,$50K - $70K,F,3,0,Bachelors Degree,11/17/1992,Bronze,Professional,N
 4382,34534358978,Rosemarie,Ulibarri,9347 Arlington Way,Anacortes,WA,48099,USA,6/20/1913,M,$130K - $150K,F,0,0,Graduate Degree,7/25/1992,Silver,Management,N
-4383,34534369707,James,"Werner, Jr.",2298 El Pintado Rd,Cliffside,BC,81537,Canada,6/4/1954,M,$50K - $70K,F,5,1,Bachelors Degree,4/22/1994,Bronze,Management,Y
+4383,34534369707,James,Werner Jr.,2298 El Pintado Rd,Cliffside,BC,81537,Canada,6/4/1954,M,$50K - $70K,F,5,1,Bachelors Degree,4/22/1994,Bronze,Management,Y
 4384,34539830700,Janice,Zane,884 Peach Place,Mexico City,Mexico,40872,Mexico,10/15/1917,S,$90K - $110K,F,3,0,Partial High School,8/12/1990,Bronze,Professional,Y
 4385,34544460200,Sam,Cambra,4088 Millfield Place,Bellflower,CA,36872,USA,5/17/1916,M,$10K - $30K,F,3,3,Partial High School,10/4/1991,Normal,Manual,Y
 4386,34558091163,Shirley,Ortiz,5583 Garaventa Dr,Hidalgo,Zacatecas,90397,Mexico,6/6/1941,S,$10K - $30K,M,5,0,Partial High School,6/16/1992,Normal,Skilled Manual,N
@@ -4817,7 +4817,7 @@ customer_id,customer_acct_num,first_name,last_name,customer_address,customer_cit
 4816,37796214800,Margaret,Davelis,9834 Vista Del Rio,La Mesa,CA,86392,USA,11/4/1977,M,$70K - $90K,F,0,0,Partial High School,9/4/1991,Bronze,Professional,N
 4817,37821314900,Mary,Alexander,3040 Snow Drive,Kirkland,WA,85992,USA,9/8/1945,M,$30K - $50K,F,0,0,High School Degree,4/26/1993,Bronze,Manual,Y
 4818,37836565971,Louis,Dawson,4535 Sun Hill Lane,Fremont,CA,73703,USA,3/27/1938,S,$30K - $50K,M,4,0,High School Degree,9/3/1993,Silver,Skilled Manual,N
-4819,37836898565,James,"Avaloz, Jr.",649 Hoke Dr,Santa Monica,CA,39464,USA,10/24/1972,S,$10K - $30K,F,1,0,Partial High School,8/27/1993,Normal,Manual,Y
+4819,37836898565,James,Avaloz Jr.,649 Hoke Dr,Santa Monica,CA,39464,USA,10/24/1972,S,$10K - $30K,F,1,0,Partial High School,8/27/1993,Normal,Manual,Y
 4820,37839505672,Samuel,Wagner,2399 Stafford Ave,Metchosin,BC,92336,Canada,12/13/1914,M,$70K - $90K,F,2,1,High School Degree,6/19/1990,Bronze,Professional,Y
 4821,37857165300,John,Shaw,8766 Arthur Rd,Glendale,CA,96966,USA,12/17/1924,M,$110K - $130K,M,0,0,High School Degree,6/25/1991,Bronze,Professional,Y
 4822,37868618369,Joy,Gay,3426 Calhoun Court,Walla Walla,WA,17001,USA,4/5/1922,M,$10K - $30K,F,3,3,Partial High School,9/7/1994,Normal,Manual,Y
@@ -6540,7 +6540,7 @@ customer_id,customer_acct_num,first_name,last_name,customer_address,customer_cit
 6539,51730419397,James,Watson,9594 Zion Avenue,N. Vancouver,BC,75692,Canada,12/8/1915,M,$30K - $50K,F,3,3,Partial College,2/19/1991,Golden,Skilled Manual,Y
 6540,51755594600,Arlene,Ang,7672 Ashley Way,Royal Oak,BC,90885,Canada,3/20/1975,S,$70K - $90K,F,4,0,Bachelors Degree,4/1/1991,Bronze,Professional,N
 6541,51759263873,Mark,Blatt,7712 Oak Wood Court,Yakima,WA,59162,USA,10/25/1969,S,$30K - $50K,F,1,0,High School Degree,5/21/1993,Bronze,Skilled Manual,N
-6542,51762182116,Bradley,"Lorenzo, Jr.",6044 Gloria Terr.,Glendale,CA,41843,USA,3/10/1945,M,$50K - $70K,M,4,2,Bachelors Degree,5/4/1991,Silver,Management,Y
+6542,51762182116,Bradley,Lorenzo Jr.,6044 Gloria Terr.,Glendale,CA,41843,USA,3/10/1945,M,$50K - $70K,M,4,2,Bachelors Degree,5/4/1991,Silver,Management,Y
 6543,51767396300,Kristen,Barnes,8994 Mt. Hamilton Dr.,Berkeley,CA,48988,USA,4/13/1942,M,$10K - $30K,M,2,2,Partial High School,5/4/1991,Normal,Manual,N
 6544,51778114438,JoAnne,Riley,236 Willow Lake Rd.,Lebanon,OR,96830,USA,3/11/1955,S,$10K - $30K,F,0,0,Partial High School,10/13/1993,Normal,Manual,N
 6545,51781590580,Jean,Hoessel,7342 Dew Drop Circle,Newton,BC,96429,Canada,2/15/1922,M,$50K - $70K,F,0,0,Bachelors Degree,4/7/1991,Bronze,Professional,N
@@ -6680,7 +6680,7 @@ customer_id,customer_acct_num,first_name,last_name,customer_address,customer_cit
 6679,53065290500,Shaun,Buenstro,7421 Lavetta Way,Merida,Yucatan,52356,Mexico,3/7/1944,S,$150K +,M,0,0,Partial High School,5/25/1991,Silver,Professional,Y
 6680,53083068100,Sandra,Gibson,2335 Linden Land,Langford,BC,37552,Canada,10/11/1959,M,$10K - $30K,M,4,4,Partial High School,2/5/1990,Normal,Skilled Manual,Y
 6681,53083320260,Anna,Gaffney,1867 Royal Ann Lane,Puyallup,WA,73505,USA,12/14/1942,M,$90K - $110K,M,3,1,Bachelors Degree,10/28/1990,Bronze,Professional,Y
-6682,53083813800,Joseph,"Herrold, Sr.",7034 Carson,West Covina,CA,24863,USA,2/26/1945,S,$50K - $70K,M,5,0,High School Degree,8/3/1991,Bronze,Manual,Y
+6682,53083813800,Joseph,Herrold Sr.,7034 Carson,West Covina,CA,24863,USA,2/26/1945,S,$50K - $70K,M,5,0,High School Degree,8/3/1991,Bronze,Manual,Y
 6683,53092316389,Chrisie,Tapia,6820 Gladstone Dr.,Puyallup,WA,26977,USA,5/6/1937,M,$50K - $70K,F,5,1,Bachelors Degree,7/4/1993,Bronze,Professional,Y
 6684,53093802332,Melanie,Snow,4898 Hillview Dr.,Walla Walla,WA,43496,USA,7/26/1971,S,$30K - $50K,M,4,0,High School Degree,6/11/1994,Bronze,Manual,Y
 6685,53097804188,Jewell,Tainter,4938 York Dr.,San Andres,DF,11773,Mexico,10/1/1927,M,$10K - $30K,M,0,0,Partial High School,6/12/1991,Silver,Skilled Manual,Y
@@ -6770,7 +6770,7 @@ customer_id,customer_acct_num,first_name,last_name,customer_address,customer_cit
 6769,53809469342,Jackie,Longo,9117 Jacqueline Way,Newton,BC,14725,Canada,7/19/1971,S,$110K - $130K,F,2,0,High School Degree,2/21/1991,Bronze,Professional,Y
 6770,53810724616,Robert,James,613 Lakehurst Dr.,Langley,BC,28729,Canada,4/18/1951,S,$10K - $30K,F,3,0,Partial High School,3/4/1992,Normal,Manual,N
 6771,53816764950,Terri,Pifko,6727 Roux Court,Everett,WA,67197,USA,6/21/1920,M,$30K - $50K,F,3,2,High School Degree,9/6/1992,Bronze,Skilled Manual,Y
-6772,53821898698,Elmer,"Purcell, Sr.",8476 Kingswood Circle,Spring Valley,CA,21070,USA,5/15/1938,S,$30K - $50K,M,2,0,High School Degree,9/9/1992,Bronze,Skilled Manual,N
+6772,53821898698,Elmer,Purcell Sr.,8476 Kingswood Circle,Spring Valley,CA,21070,USA,5/15/1938,S,$30K - $50K,M,2,0,High School Degree,9/9/1992,Bronze,Skilled Manual,N
 6773,53833925724,Paul,Baughman,4845 Park Lane Circle,Sooke,BC,51992,Canada,9/13/1943,M,$50K - $70K,M,3,2,Bachelors Degree,5/11/1992,Bronze,Management,Y
 6774,53839445710,Joey,Mahlon,9504 Rosina Court,San Andres,DF,44734,Mexico,8/7/1947,M,$50K - $70K,M,3,1,High School Degree,4/25/1991,Bronze,Skilled Manual,N
 6775,53849600553,Shirley,Frasure,6126 North Sixth Street,Redmond,WA,15526,USA,8/15/1966,S,$30K - $50K,F,4,0,High School Degree,6/13/1991,Bronze,Skilled Manual,N
@@ -7835,7 +7835,7 @@ customer_id,customer_acct_num,first_name,last_name,customer_address,customer_cit
 7834,62784741520,Leah,Wilcox,891 Melinda Court,Metchosin,BC,20684,Canada,11/21/1955,S,$10K - $30K,F,1,0,Partial High School,3/9/1993,Normal,Manual,N
 7835,62797975540,Shirley,Springer,677 Riveria Way,Salem,OR,22799,USA,11/16/1935,M,$50K - $70K,F,4,3,Bachelors Degree,8/7/1990,Golden,Professional,Y
 7836,62800469994,Angelina,Pabrislo,8754 Second Ave.,Hidalgo,Zacatecas,39318,Mexico,1/9/1969,S,$30K - $50K,M,5,0,Partial College,7/14/1992,Bronze,Clerical,Y
-7837,62802862524,G. Richard,"Huebner, Jr.",8794 Gumwood,Burlingame,CA,75942,USA,5/11/1925,S,$50K - $70K,M,1,0,Bachelors Degree,7/15/1992,Bronze,Professional,Y
+7837,62802862524,G. Richard,Huebner Jr.,8794 Gumwood,Burlingame,CA,75942,USA,5/11/1925,S,$50K - $70K,M,1,0,Bachelors Degree,7/15/1992,Bronze,Professional,Y
 7838,62808827757,Jeff,Toyne,9781 Bermad Dr.,Coronado,CA,62982,USA,8/4/1946,M,$10K - $30K,F,2,0,Partial High School,3/22/1992,Normal,Manual,Y
 7839,62826020717,Robert,Clark,2732 Frisbie Ct.,N. Vancouver,BC,96420,Canada,5/4/1974,M,$10K - $30K,M,3,3,Partial High School,11/20/1994,Normal,Manual,Y
 7840,62829142808,Josh,Ceballos,1318 Ramer Ct.,Shawnee,BC,18970,Canada,2/27/1949,M,$30K - $50K,F,5,5,High School Degree,1/25/1993,Golden,Skilled Manual,Y
@@ -8335,7 +8335,7 @@ customer_id,customer_acct_num,first_name,last_name,customer_address,customer_cit
 8334,67390673800,Robert,Blair,5684 Fitzuren,W. Linn,OR,76511,USA,9/13/1940,M,$10K - $30K,M,3,3,Partial High School,12/4/1991,Normal,Manual,N
 8335,67391419400,Eugene,Stockton,8634 Mi Casa Court,Long Beach,CA,83657,USA,10/16/1937,M,$30K - $50K,F,0,0,High School Degree,1/4/1991,Bronze,Skilled Manual,N
 8336,67399648427,G. Scott,Mercer,9875 W. Holly Dr.,Tacoma,WA,32499,USA,10/14/1949,M,$10K - $30K,M,4,3,Partial High School,6/13/1993,Normal,Skilled Manual,Y
-8337,67428664565,M. Doyle,"Butler, Jr.",3080 Soto St.,Santa Anita,DF,32098,Mexico,8/18/1917,M,$30K - $50K,F,4,1,High School Degree,11/7/1992,Bronze,Skilled Manual,N
+8337,67428664565,M. Doyle,Butler Jr.,3080 Soto St.,Santa Anita,DF,32098,Mexico,8/18/1917,M,$30K - $50K,F,4,1,High School Degree,11/7/1992,Bronze,Skilled Manual,N
 8338,67440986633,Joaquin,Stanley,4576 N Ranchford Court,Tixapan,DF,19810,Mexico,10/27/1968,S,$10K - $30K,M,2,0,Partial High School,9/22/1993,Normal,Skilled Manual,Y
 8339,67446544200,Andrew,Bell,8034 Cancroft Road,Langley,BC,58278,Canada,8/7/1944,S,$10K - $30K,M,4,0,Partial High School,8/19/1993,Normal,Skilled Manual,N
 8340,67454907298,Edna,Keane,6341 Darnett Circle,Lakewood,CA,38443,USA,11/23/1956,M,$130K - $150K,F,0,0,Graduate Degree,3/27/1993,Bronze,Professional,N
@@ -8717,7 +8717,7 @@ customer_id,customer_acct_num,first_name,last_name,customer_address,customer_cit
 8716,70972232818,Gregory,Wood,3055 Mt. Trinity Ct.,Newton,BC,96223,Canada,10/19/1950,M,$30K - $50K,M,4,3,High School Degree,1/18/1994,Silver,Skilled Manual,Y
 8717,70988191962,Anthony,Wiggins,4341 Ceemar Court,Tacoma,WA,76898,USA,6/26/1915,M,$50K - $70K,F,1,1,Bachelors Degree,5/22/1993,Bronze,Professional,N
 8718,71000326275,Chad,Allen,2673 Adobe St.,Altadena,CA,59579,USA,1/22/1973,S,$50K - $70K,M,4,0,Bachelors Degree,4/5/1991,Bronze,Management,N
-8719,71002048254,Joseph,"Boedecker, Jr.",5623 Detroit Ave.,Daly City,CA,66724,USA,2/25/1970,S,$50K - $70K,F,1,0,Partial High School,2/21/1994,Bronze,Manual,N
+8719,71002048254,Joseph,Boedecker Jr.,5623 Detroit Ave.,Daly City,CA,66724,USA,2/25/1970,S,$50K - $70K,F,1,0,Partial High School,2/21/1994,Bronze,Manual,N
 8720,71002552509,David,McKenney,6864 Oakleaf Ct.,Beaverton,OR,15567,USA,10/12/1971,M,$50K - $70K,M,1,1,Bachelors Degree,12/10/1993,Bronze,Professional,Y
 8721,71009461879,Michael,Wheat,69 Market Pl.,Westminster,BC,15166,Canada,8/16/1938,M,$10K - $30K,M,3,2,High School Degree,9/16/1992,Normal,Manual,N
 8722,71017395900,Raymond,McCurry,1565 Esperanea Dr.,Shawnee,BC,28773,Canada,2/8/1931,M,$110K - $130K,F,5,2,Graduate Degree,4/20/1992,Bronze,Professional,Y
@@ -8927,7 +8927,7 @@ customer_id,customer_acct_num,first_name,last_name,customer_address,customer_cit
 8926,73270784000,Joe,Smith,6850 Shadow Creek Dr.,Burien,WA,52301,USA,10/5/1966,S,$70K - $90K,M,2,0,Partial High School,3/10/1990,Bronze,Professional,Y
 8927,73281448483,Esther,Cipolla,9800 American Beauty Dr.,N. Vancouver,BC,85739,Canada,7/5/1925,S,$30K - $50K,M,3,0,Partial High School,8/24/1991,Bronze,Skilled Manual,Y
 8928,73282435500,Clair,Stuart,1042 Hooftrail Way,Merida,Yucatan,82892,Mexico,4/27/1970,M,$10K - $30K,M,0,0,Partial High School,1/13/1992,Normal,Manual,Y
-8929,73289307400,Joe,"Sandoval, Jr.",4246 Falls Ct.,Santa Monica,CA,78892,USA,9/2/1970,M,$10K - $30K,M,5,5,Partial High School,11/4/1993,Normal,Manual,Y
+8929,73289307400,Joe,Sandoval Jr.,4246 Falls Ct.,Santa Monica,CA,78892,USA,9/2/1970,M,$10K - $30K,M,5,5,Partial High School,11/4/1993,Normal,Manual,Y
 8930,73305035829,James,Campbell,5741 Glen Wood Dr.,Santa Monica,CA,94599,USA,10/18/1925,M,$30K - $50K,M,0,0,High School Degree,5/17/1991,Bronze,Skilled Manual,N
 8931,73307085000,Gary,Balestrery,9200 Tunis Way,Richmond,CA,34068,USA,6/23/1933,M,$30K - $50K,M,1,1,Partial High School,12/11/1993,Golden,Manual,N
 8932,73319219350,Amanda,Mcintire,3605 Gallagher Circle,San Andres,DF,14233,Mexico,4/10/1976,S,$10K - $30K,M,1,0,Partial High School,6/27/1992,Normal,Manual,Y
@@ -8968,7 +8968,7 @@ customer_id,customer_acct_num,first_name,last_name,customer_address,customer_cit
 8967,73784035444,Sharon,Adams,3010 Ward Court,N. Vancouver,BC,47134,Canada,9/19/1915,S,$30K - $50K,M,4,0,High School Degree,8/10/1993,Bronze,Skilled Manual,N
 8968,73799458146,Rory,Wren,579 Pinnacle Dr.,Milwaukie,OR,32330,USA,9/13/1976,S,$10K - $30K,M,3,0,Partial High School,9/20/1990,Normal,Skilled Manual,N
 8969,73804629445,Gerald,Austin,7455 Wellington Ave.,Santa Monica,CA,68283,USA,12/7/1915,S,$50K - $70K,F,2,0,Bachelors Degree,4/10/1992,Bronze,Management,Y
-8970,73813813300,Carl,"Perez, Jr.",5279 Glenwood Dr.,Walla Walla,WA,19641,USA,9/6/1968,S,$10K - $30K,F,1,0,Partial High School,9/27/1991,Normal,Skilled Manual,N
+8970,73813813300,Carl,Perez Jr.,5279 Glenwood Dr.,Walla Walla,WA,19641,USA,9/6/1968,S,$10K - $30K,F,1,0,Partial High School,9/27/1991,Normal,Skilled Manual,N
 8971,73842185735,Judith,McDowell,5065 Maywood Lane,Richmond,CA,21755,USA,11/5/1916,M,$10K - $30K,M,1,0,Partial High School,8/19/1990,Normal,Skilled Manual,Y
 8972,73845184400,Carl,Holland,3143 N. Main,Mill Valley,CA,11982,USA,3/17/1976,M,$70K - $90K,M,3,1,High School Degree,11/2/1994,Bronze,Management,Y
 8973,73855183720,Gordon,Dorenkamp,3183 Chestnut Ave.,Camacho,Zacatecas,79258,Mexico,10/21/1970,S,$30K - $50K,F,1,0,High School Degree,3/5/1993,Bronze,Skilled Manual,Y
@@ -9555,7 +9555,7 @@ customer_id,customer_acct_num,first_name,last_name,customer_address,customer_cit
 9554,79900898933,Josephine,Scott,4597 Sunshine Drive,Corvallis,OR,68533,USA,6/25/1974,M,$70K - $90K,M,3,2,Bachelors Degree,10/3/1991,Bronze,Professional,Y
 9555,79910844564,Bob,Pencoff,711 Houston Ct.,Puyallup,WA,34295,USA,5/6/1950,M,$50K - $70K,F,1,1,Bachelors Degree,9/27/1991,Bronze,Management,Y
 9556,79912330500,Joseph,Feeney,2461 Stephine Way,Ballard,WA,87167,USA,7/22/1962,S,$10K - $30K,F,2,0,Partial High School,4/8/1992,Normal,Skilled Manual,Y
-9557,79913972020,Garrett,"Rose, Jr.",4763 Palisade Court,Port Orchard,WA,43767,USA,7/26/1972,M,$30K - $50K,F,1,0,High School Degree,4/5/1991,Bronze,Manual,Y
+9557,79913972020,Garrett,Rose Jr.,4763 Palisade Court,Port Orchard,WA,43767,USA,7/26/1972,M,$30K - $50K,F,1,0,High School Degree,4/5/1991,Bronze,Manual,Y
 9558,79928016100,Dawn,Woods,9422 Rolando Avenue,Los Angeles,CA,62801,USA,10/14/1971,M,$90K - $110K,F,3,3,High School Degree,8/14/1994,Golden,Professional,N
 9559,79957595500,George,Cereghino,6045 Nightingale Drive,Orizaba,Veracruz,59886,Mexico,4/16/1914,M,$10K - $30K,F,2,0,Partial High School,5/7/1990,Normal,Manual,Y
 9560,79979106800,Lee,Wilks,3614 Golf Club Road,Vancouver,BC,45081,Canada,11/7/1936,M,$30K - $50K,M,0,0,High School Degree,5/25/1994,Golden,Skilled Manual,N
@@ -9659,7 +9659,7 @@ customer_id,customer_acct_num,first_name,last_name,customer_address,customer_cit
 9658,81095297336,Michael,Takaki,4987 Westover Dr.,Altadena,CA,68975,USA,6/24/1936,M,$10K - $30K,F,4,2,Bachelors Degree,3/9/1990,Golden,Management,N
 9659,81107587218,Carol,Clark,4773 Tanager Road,Shawnee,BC,71090,Canada,1/25/1922,S,$50K - $70K,F,1,0,Bachelors Degree,6/4/1991,Silver,Management,N
 9660,81110580600,Daniel,Tendick,2851 Ward Street,Tixapan,DF,87608,Mexico,7/12/1950,S,$30K - $50K,F,0,0,High School Degree,12/16/1993,Bronze,Manual,N
-9661,81127204895,Daniel,"Bradshaw, Jr.",2891 Sanford St.,N. Vancouver,BC,55885,Canada,7/20/1912,S,$10K - $30K,M,3,0,Partial High School,5/11/1993,Normal,Manual,Y
+9661,81127204895,Daniel,Bradshaw Jr.,2891 Sanford St.,N. Vancouver,BC,55885,Canada,7/20/1912,S,$10K - $30K,M,3,0,Partial High School,5/11/1993,Normal,Manual,Y
 9662,81159107089,James,Singh,3879 Longview Rd.,Woodland Hills,CA,38566,USA,3/7/1926,S,$50K - $70K,M,3,0,Bachelors Degree,8/24/1993,Bronze,Management,N
 9663,81164809500,Randy,Hopkins,4173 Rockledge Lane,Burlingame,CA,45711,USA,7/13/1961,M,$10K - $30K,M,0,0,Partial High School,1/27/1991,Normal,Manual,Y
 9664,81167797400,Juanita,Paepke,5414 Stonehedge Dr.,Sedro Woolley,WA,93553,USA,7/3/1930,S,$30K - $50K,F,0,0,High School Degree,12/25/1990,Silver,Skilled Manual,N

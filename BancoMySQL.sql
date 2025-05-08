@@ -12,6 +12,8 @@
 
 CREATE DATABASE IF NOT EXISTS Banco;
 
+USE Banco;
+
 -- DROP Existing tables
 DROP TABLE IF EXISTS `CtaCli`;
 DROP TABLE IF EXISTS `Transacciones`;
